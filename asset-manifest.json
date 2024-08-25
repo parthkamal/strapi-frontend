@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/strapi-frontend/static/css/main.da3e5be4.css",
+    "main.js": "/strapi-frontend/static/js/main.5ffdf9be.js",
+    "static/js/453.4988a6ee.chunk.js": "/strapi-frontend/static/js/453.4988a6ee.chunk.js",
+    "index.html": "/strapi-frontend/index.html",
+    "main.da3e5be4.css.map": "/strapi-frontend/static/css/main.da3e5be4.css.map",
+    "main.5ffdf9be.js.map": "/strapi-frontend/static/js/main.5ffdf9be.js.map",
+    "453.4988a6ee.chunk.js.map": "/strapi-frontend/static/js/453.4988a6ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da3e5be4.css",
+    "static/js/main.5ffdf9be.js"
+  ]
+}
